@@ -1,4 +1,4 @@
-# Moving-Line By Wei Wei Chi 2016
+# Moving Line By Wei Wei Chi 2016
 
 Please download and use Processing 3 for this application. 
 
