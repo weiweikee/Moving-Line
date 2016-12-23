@@ -15,3 +15,5 @@ Controls:
 3. Change Direction by pressing LEFT or RIGHT
 
 4. Save current frame by pressing 's' or 'S'
+
+5. Click to paused and unpaused
