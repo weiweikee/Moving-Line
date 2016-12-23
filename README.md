@@ -8,10 +8,10 @@ Open one of the pde file after installing processing.
 
 Controls: 
 
-Increase Speed when pressing UP
+Increase Speed by pressing UP
 
-Decrease Speed when pressing DOWN
+Decrease Speed by pressing DOWN
 
-Change Direction when pressing LEFT or RIGHT
+Change Direction by pressing LEFT or RIGHT
 
-Save current frame when pressing 's' or 'S'
+Save current frame by pressing 's' or 'S'
